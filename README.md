@@ -1,1 +1,0 @@
-# EXPERIMENT-3--Sampling-aliasing-and-reconstruction
